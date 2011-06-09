@@ -1,7 +1,6 @@
 ﻿import org.caleb.event.ObservableObject;
 /**
 * ObservableCountdown
-* @author: jeffery@yahoo-inc.com
 * @description: An object that broadcasts the days, hours, minutes, and seconds every second.
 * @usage var cd = new org.caleb.event.ObservableCountDown(new Date(2005, 5, 10));
 * @events onCountdownUpdate - broadcast every second, updating with the difference between the supplied date and the current date
