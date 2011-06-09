@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="60"
+   repos="http://caleb.org/projects"
+   url="http://caleb.org/projects/lib/org/caleb/components/carousel"
+   last-author="caleb"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   kind="dir"
+   name=""
+   committed-rev="60"/>
+<entry
+   checksum="c89ec65ccd46915d48b187b03421deee"
+   last-author="caleb"
+   prop-time="2007-02-17T02:08:32.000000Z"
+   text-time="2007-02-17T02:10:08.000000Z"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   kind="file"
+   name="Carousel.as"
+   committed-rev="60"/>
+<entry
+   checksum="77c438d09129fd743cba2175d3b68066"
+   last-author="caleb"
+   prop-time="2007-02-17T02:08:34.000000Z"
+   text-time="2007-02-17T02:10:08.000000Z"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   name="CarouselPaneManager.as"
+   kind="file"
+   committed-rev="60"/>
+</wc-entries>

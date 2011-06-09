@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="60"
+   repos="http://caleb.org/projects"
+   url="http://caleb.org/projects/lib/org/caleb/xml"
+   last-author="caleb"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   kind="dir"
+   name=""
+   committed-rev="60"/>
+<entry
+   checksum="88afc0a1555b60cb32e3e78a27511463"
+   last-author="caleb"
+   prop-time="2007-02-17T02:08:40.000000Z"
+   text-time="2007-02-17T02:10:11.000000Z"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   name="SimpleXML.as"
+   kind="file"
+   committed-rev="60"/>
+<entry
+   checksum="234626ee408fb7468457c969c540767e"
+   last-author="caleb"
+   prop-time="2007-02-17T02:08:33.000000Z"
+   text-time="2007-02-17T02:10:11.000000Z"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   kind="file"
+   name="XMLObject.as"
+   committed-rev="60"/>
+</wc-entries>

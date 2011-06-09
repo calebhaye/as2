@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="60"
+   repos="http://caleb.org/projects"
+   url="http://caleb.org/projects/lib/org/caleb/components/slider/simple"
+   last-author="caleb"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   kind="dir"
+   name=""
+   committed-rev="60"/>
+<entry
+   checksum="64bb6340285011b9fcef020667a78904"
+   last-author="caleb"
+   prop-time="2007-02-17T02:08:33.000000Z"
+   text-time="2007-01-16T23:07:02.000000Z"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   kind="file"
+   name="ScrollThumb.as"
+   committed-rev="60"/>
+<entry
+   checksum="9a659455e15937fbd464ba395251bba0"
+   last-author="caleb"
+   prop-time="2007-02-17T02:08:35.000000Z"
+   text-time="2007-02-17T02:00:30.000000Z"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   name="SimpleSlider.as"
+   kind="file"
+   committed-rev="60"/>
+</wc-entries>

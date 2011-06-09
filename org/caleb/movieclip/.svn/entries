@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="60"
+   repos="http://caleb.org/projects"
+   url="http://caleb.org/projects/lib/org/caleb/movieclip"
+   last-author="caleb"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   kind="dir"
+   name=""
+   committed-rev="60"/>
+<entry
+   checksum="577a8c7fcaf88a87aa87d6d0989043ee"
+   last-author="caleb"
+   prop-time="2007-02-17T02:08:31.000000Z"
+   text-time="2007-02-17T02:10:10.000000Z"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   kind="file"
+   name="CoreMovieClip.as"
+   committed-rev="60"/>
+<entry
+   checksum="544eb60bd0cc31eae081a7494e4b1048"
+   last-author="caleb"
+   prop-time="2007-02-17T02:08:31.000000Z"
+   text-time="2007-02-17T02:10:10.000000Z"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   name="ObservableMovieClip.as"
+   kind="file"
+   committed-rev="60"/>
+</wc-entries>

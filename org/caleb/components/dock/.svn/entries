@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://caleb.org/projects"
+   revision="60"
+   url="http://caleb.org/projects/lib/org/caleb/components/dock"
+   last-author="caleb"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   name=""
+   kind="dir"
+   committed-rev="60"/>
+<entry
+   checksum="2621d483a22357a9ea3d4df541e9894f"
+   last-author="caleb"
+   prop-time="2007-02-17T02:08:39.000000Z"
+   text-time="2007-02-17T02:10:08.000000Z"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   name="Dock.as"
+   kind="file"
+   committed-rev="60"/>
+</wc-entries>

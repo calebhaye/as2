@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://caleb.org/projects"
+   revision="60"
+   url="http://caleb.org/projects/lib/org/caleb/wordpress"
+   last-author="caleb"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   name=""
+   kind="dir"
+   committed-rev="60"/>
+<entry
+   checksum="adebe37d183e6379be599ae7a3fc90c5"
+   last-author="caleb"
+   prop-time="2007-02-17T02:08:35.000000Z"
+   text-time="2007-02-17T02:10:11.000000Z"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   name="WordPress.as"
+   kind="file"
+   committed-rev="60"/>
+<entry
+   checksum="b959de45760fee76a4eeb6291d76cf85"
+   last-author="caleb"
+   prop-time="2007-02-17T02:08:36.000000Z"
+   text-time="2007-02-17T02:10:11.000000Z"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   kind="file"
+   name="WordPressCategory.as"
+   committed-rev="60"/>
+<entry
+   checksum="72522cb7f4bf35cede8f8eef551bfcd1"
+   last-author="caleb"
+   prop-time="2007-02-17T02:08:38.000000Z"
+   text-time="2007-02-17T02:10:11.000000Z"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   name="WordPressHomePage.as"
+   kind="file"
+   committed-rev="60"/>
+<entry
+   checksum="5c780712d489b125b4cd5ccd16e66da1"
+   last-author="caleb"
+   prop-time="2007-02-17T02:08:32.000000Z"
+   text-time="2007-02-17T02:10:11.000000Z"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   name="WordPressPage.as"
+   kind="file"
+   committed-rev="60"/>
+<entry
+   checksum="3f8d1eeb652a98fd5b553e9623d959a5"
+   last-author="caleb"
+   prop-time="2007-02-17T02:08:35.000000Z"
+   text-time="2007-02-17T02:10:11.000000Z"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   kind="file"
+   name="WordPressPosting.as"
+   committed-rev="60"/>
+</wc-entries>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="60"
+   repos="http://caleb.org/projects"
+   url="http://caleb.org/projects/lib/org/caleb/maps"
+   last-author="caleb"
+   committed-date="2007-02-17T02:09:56.764000Z"
+   kind="dir"
+   name=""
+   committed-rev="60"/>
+</wc-entries>
